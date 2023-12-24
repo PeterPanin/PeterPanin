@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PeterPanin
 - 👀 I’m interested in front end
 - 🌱 I’m currently learning hmlt5
-- 💞️ I’m a fishman 
+- 💞️ I’m a freshman
 - 📫 How to recerch in 2833465878@qq.com
 
 <!---
